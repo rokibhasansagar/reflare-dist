@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaoyang-sde/reflare.git"
+    "url": "git+https://github.com/rokibhasansagar/reflare.git"
   },
   "keywords": [
     "serverless",
@@ -30,9 +30,9 @@
   "author": "Xiaoyang Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xiaoyang-sde/reflare/issues"
+    "url": "https://github.com/rokibhasansagar/reflare/issues"
   },
-  "homepage": "https://github.com/xiaoyang-sde/reflare",
+  "homepage": "https://github.com/rokibhasansagar/reflare",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230518.0",
     "@typescript-eslint/eslint-plugin": "^5.59.11",
